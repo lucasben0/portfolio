@@ -5,8 +5,8 @@ title: Home
 
 <style>
 .profile-photo {
-  width: 115px; /* Adjust size as needed */
-  height: 115px;
+  width: 125px; /* Adjust size as needed */
+  height: 125px;
   border-radius: 50%;
   object-fit: cover; /* Ensures the image covers the circle area */
   display: block;
