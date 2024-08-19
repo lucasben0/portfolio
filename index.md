@@ -5,7 +5,7 @@ title: Home
 
 # Hi I'm Lucas
 
-![Profile Photo](assets/images/githubphoto2.png){: .profile-photo }
+![Profile Photo](assets/githubphoto2.png){: .profile-photo }
 
 ### Statistics @ Dalhousie University
 I'm interested in making sense of complex datasets via statistical methods. Some of my interests include baseball, economics, and singing. 
