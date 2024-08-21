@@ -9,4 +9,6 @@
 
 [Tree-Based Methods](assets/Tree-Based%20Methods.pdf)
 
+[Variable Selection in Linear Regression](assets/Variable%20Selection%20in%20Linear%20Regression.pdf)
+
 ---
