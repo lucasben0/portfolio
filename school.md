@@ -7,6 +7,6 @@
 
 [Comparison of Classification Methods for Celestial Objects](assets/Comparison%20of%20Classification%20Methods%20for%20Celestial%20Objects.pdf)
 
-[Tree-Based Methods]
+[Tree-Based Methods](assets/Tree-Based%20Methods.pdf)
 
 ---
