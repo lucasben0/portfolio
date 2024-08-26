@@ -1,6 +1,6 @@
----
-layout: default
-title: My Projects
----
-# My Projects
+## My Projects
 
+--- 
+### Python Skills
+
+[Pandas Fundamentals]
