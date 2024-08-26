@@ -3,4 +3,4 @@
 --- 
 ### Python Skills
 
-[Pandas Fundamentals]
+[Pandas Fundamentals](assets/Pandas%20Fundamentals.html)
