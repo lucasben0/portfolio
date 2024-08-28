@@ -1,0 +1,23 @@
+name: "Lucas Ben"
+output_dir: "."
+navbar:
+  title: "Lucas Ben"
+  left:
+    - text: "Home"
+      href: home.html
+    - text: "My Projects"
+      href: projects.html
+    - text: "School"
+      href: analysis.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: mailto:lucasthaddeusben@gmail.com
+    - icon: fa-github fa-lg
+      href: https://github.com/lucasben0
+    - icon: fa-twitter fa-lg
+      href: https://x.com/_lben
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/lucas-b-619178204/
+output:
+  html_document:
+    theme: paper
